@@ -1,5 +1,5 @@
 ## QuickSort Algorithm With C++
-a program with c++ to sort your array as fast
+A C++ program to sort your array quickly and efficiently.
 
 ## Clone The Repository :
 to clone the repository run the following command :
